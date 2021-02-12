@@ -1,0 +1,21 @@
+body {
+    color: #fff;
+    background-color: #121212;
+}
+
+.highlight {
+    border-radius: 0.4rem;
+    color: white;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.red{
+    background-color: lightcoral;
+}
+.blue {
+    background-color: cornflowerblue;
+}
+.green {
+    background-color: mediumseagreen;
+}
